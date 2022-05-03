@@ -1,0 +1,17 @@
+.fuse_hidden*
+*.asv
+code/results_webpage/
+data.old/
+*.dvi
+*.out
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.aux
+code/train_img_descriptors_file.mat
+code/vocab.mat
+
+code/vocab.mat
+code/vocab.mat
+code/image_feats.mat

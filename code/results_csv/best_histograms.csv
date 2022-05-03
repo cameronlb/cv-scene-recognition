@@ -1,0 +1,9 @@
+metric,accuracy,k
+chebychev,0.314000,22
+cityblock,0.353000,20
+correlation,0.334000,26
+euclidean,0.353000,17
+hamming,0.121000,56
+jaccard,0.102000,62
+mahalanobis,0.341000,18
+minkowski,0.353000,17
